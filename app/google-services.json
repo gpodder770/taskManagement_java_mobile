@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312773978455",
+    "project_id": "myassignmnet-5ed76",
+    "storage_bucket": "myassignmnet-5ed76.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312773978455:android:fbeafa2daf01b1cc7b7612",
+        "android_client_info": {
+          "package_name": "com.gourab.myassignmnet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA95zimHfTLljMTHgks3RTyReCJcc363js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

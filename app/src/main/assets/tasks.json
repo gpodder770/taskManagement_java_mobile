@@ -1,0 +1,7 @@
+{
+  "tasks": [
+    { "id": 1, "name": "Buy groceries" },
+    { "id": 2, "name": "Finish project" },
+    { "id": 3, "name": "Workout session" }
+  ]
+}
